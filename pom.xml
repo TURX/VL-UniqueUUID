@@ -29,4 +29,11 @@
         </dependency>
     </dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub TURX Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/TURX/VL-UniqueUUID</url>
+        </repository>
+    </distributionManagement>
 </project>
