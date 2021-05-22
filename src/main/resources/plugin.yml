@@ -1,0 +1,8 @@
+main: site.vstl.UniqueUUID.UniqueUUID
+name: UniqueUUID
+version: 1.3
+description: UUID anti-conflict for Minecraft Vast-Light
+api-version: 1.16
+load: STARTUP
+author: turx2003@gmail.com
+website: vstl.site
